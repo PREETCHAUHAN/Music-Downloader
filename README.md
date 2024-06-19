@@ -3,7 +3,6 @@
 Telegram Music Bot for YouTube/SoundCloud/Mixcloud
 
 [![logo](https://www.tuneskit.com/images/resource/download-youtube-music-for-free.jpg)](https://t.me/AiRMUSiCSLBOT)
-#
 
 This bot downloads and sends the audio when someone send a YouTube/SoundCloud/MixCloud link
 in the specified chats, there is a command `/ping` which makes the bot reply with a "ping"
