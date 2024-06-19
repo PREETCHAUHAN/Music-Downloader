@@ -9,11 +9,11 @@ in the specified chats, there is a command `/ping` which makes the bot reply wit
 for checking if the bot is running.
 
 #
-
 ## Heroku
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/PREETCHAUHAN/Music-Downloader)
 
+#
 ## Manually
 
 ```
