@@ -2,4 +2,4 @@ Pillow==10.3.0
 Pyrogram==2.0.106
 TgCrypto==1.2.5
 ffmpeg-python==0.2.0
-youtube-dl==2021.12.17
+yt_dlp==2024.5.27
